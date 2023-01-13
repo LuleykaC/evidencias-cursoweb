@@ -1,0 +1,28 @@
+.boton{
+    width: 200px;
+    background-color:#9b5de5 ;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.boton:hover{
+    background-color: blueviolet;
+    
+}
+.boton-limpiar{
+    width: 200px;
+    background-color:#e5685d ;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.boton-limpiar:hover{
+    background-color: rgb(226, 43, 43);
+    
+}
